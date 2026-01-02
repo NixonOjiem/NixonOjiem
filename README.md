@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Metrics](./github-metrics.svg)
+
 
 <!--
 **NixonOjiem/NixonOjiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
