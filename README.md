@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lovehomemart Ecommerce Site<br>🌱 I’m currently learning Java Springboot<br>🤝 You can visit my Portfolio to check out my latest projects<br>👯 I’m looking to collaborate on A car rental Site.<br>💬 Ask me about React, Nextjs, Vue, Nodejs, Laravel<br>👨‍💻 All of my projects are available at https://nixon-ojiem.netlify.app/projects<br>📝Significant Open Source Contribution: https://yiehboats.com<br>📄 Know about my experiences https://nixon-ojiem.netlify.app<br>📫 How to reach me nixonojiem@gmail.com<br>⚡ Fun fact I love Anime
+🔭 I’m currently working on Lovehomemart Ecommerce Site<br>🌱 I’m currently learning Java Springboot<br>🤝 You can visit my Portfolio on My Portfolio<br>👯 I’m looking to collaborate on A car rental Site.<br>💬 Ask me about React, Nextjs, Vue, Nodejs, Laravel<br>👨‍💻 All of my projects are available at https://nixon-ojiem.netlify.app/projects<br>📝Significant Open Source Contribution: https://yiehboats.com<br>📄 Know about my experiences https://nixon-ojiem.netlify.app<br>📫 How to reach me nixonojiem@gmail.com<br>⚡ Fun fact I love Anime
 
 
 ## 🌐 Socials:
@@ -14,8 +14,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NixonOjiem&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
