@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lovehomemart Ecommerce Site<br>🌱 I’m currently learning Java Springboot<br>🤝 You can visit my Portfolio on My Portfolio<br>👯 I’m looking to collaborate on A car rental Site.<br>💬 Ask me about React, Nextjs, Vue, Nodejs, Laravel<br>👨‍💻 All of my projects are available at https://nixon-ojiem.netlify.app/projects<br>📝Significant Open Source Contribution: https://yiehboats.com<br>📄 Know about my experiences https://nixon-ojiem.netlify.app<br>📫 How to reach me nixonojiem@gmail.com<br>⚡ Fun fact I love Anime
+🔭 I’m currently working on Lovehomemart Ecommerce Site<br>🌱 I’m currently learning Java Springboot<br>🤝 You can visit my Portfolio to check out my latest projects<br>👯 I’m looking to collaborate on A car rental Site.<br>💬 Ask me about React, Nextjs, Vue, Nodejs, Laravel<br>👨‍💻 All of my projects are available at https://nixon-ojiem.netlify.app/projects<br>📝Significant Open Source Contribution: https://yiehboats.com<br>📄 Know about my experiences https://nixon-ojiem.netlify.app<br>📫 How to reach me nixonojiem@gmail.com<br>⚡ Fun fact I love Anime
 
 
 ## 🌐 Socials:
@@ -12,16 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NixonOjiem&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NixonOjiem&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NixonOjiem&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NixonOjiem&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=NixonOjiem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
