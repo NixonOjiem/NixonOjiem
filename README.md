@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Lovehomemart Ecommerce Site<br>🌱 I’m currently learning Java Springboot<br>🤝 You can visit my Portfolio on My Portfolio<br>👯 I’m looking to collaborate on A car rental Site.<br>💬 Ask me about React, Nextjs, Vue, Nodejs, Laravel<br>👨‍💻 All of my projects are available at https://nixon-ojiem.netlify.app/projects<br>📝Significant Open Source Contribution: https://yiehboats.com<br>📄 Know about my experiences https://nixon-ojiem.netlify.app<br>📫 How to reach me nixonojiem@gmail.com<br>⚡ Fun fact I love Anime
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NicksonOjiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicksonojiem) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nickogm) 
 
