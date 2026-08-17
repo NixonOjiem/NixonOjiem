@@ -11,7 +11,7 @@
 <!--![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NixonOjiem&theme=default) -->
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NixonOjiem&theme=default)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NixonOjiem&theme=default)
-![Streak](https://streak-stats.demolab.com/?user=NixonOjiem)
+[![NixonOjiem's GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=NixonOjiem)](https://github-contribution-card.vercel.app/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
