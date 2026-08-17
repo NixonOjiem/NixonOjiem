@@ -8,7 +8,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NixonOjiem&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NixonOjiem&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<!--![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NixonOjiem&theme=default) -->
+[GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NixonOjiem&theme=default)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NixonOjiem&theme=default)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NixonOjiem&theme=default)
 [![NixonOjiem's GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=NixonOjiem)](https://github-contribution-card.vercel.app/)
